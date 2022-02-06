@@ -2,8 +2,10 @@
 
 A flutter project to show usage of empty_widget package.
 
-- [Video tutorial for details](https://youtu.be/-yxZ316koyo)
+For more details, please watch below Youtube video,
 
+
+- [![Video tutorial for details](https://img.youtube.com/vi/-yxZ316koyo/0.jpg)](https://youtu.be/-yxZ316koyo)
 
 
 
